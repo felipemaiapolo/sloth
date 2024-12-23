@@ -1,0 +1,150 @@
+01-ai/Yi-1.5-34B Y
+01-ai/Yi-1.5-34B-32K X
+01-ai/Yi-1.5-34B-Chat Y
+01-ai/Yi-1.5-34B-Chat-16K X
+01-ai/Yi-1.5-6B Y
+01-ai/Yi-1.5-6B-Chat Y
+01-ai/Yi-1.5-9B Y
+01-ai/Yi-1.5-9B-32K X
+01-ai/Yi-1.5-9B-Chat Y
+01-ai/Yi-1.5-9B-Chat-16K X
+01-ai/Yi-34B Y
+01-ai/Yi-34B-200K X
+01-ai/Yi-34B-Chat X
+01-ai/Yi-6B Y
+01-ai/Yi-6B-200K X
+01-ai/Yi-6B-Chat Y
+01-ai/Yi-9B Y
+01-ai/Yi-9B-200K X
+Azure99/blossom-v5.1-34b [From Yi 1.5] ?
+Azure99/blossom-v5.1-9b [From Yi 1.5] ?
+BEE-spoke-data/smol_llama-101M-GQA X
+BEE-spoke-data/smol_llama-220M-GQA X
+CohereForAI/aya-23-35B X
+CohereForAI/aya-23-8B X
+EleutherAI/gpt-neo-1.3B Y
+EleutherAI/gpt-neo-2.7B Y
+EleutherAI/pythia-12b Y
+EleutherAI/pythia-160m Y
+EleutherAI/pythia-2.8b Y
+EleutherAI/pythia-410m Y
+EleutherAI/pythia-6.9b Y
+HuggingFaceTB/SmolLM-1.7B Y
+HuggingFaceTB/SmolLM-1.7B-Instruct Y
+HuggingFaceTB/SmolLM-135M Y
+HuggingFaceTB/SmolLM-135M-Instruct Y
+HuggingFaceTB/SmolLM-360M Y
+HuggingFaceTB/SmolLM-360M-Instruct Y
+NeverSleep/Lumimaid-v0.2-12B X
+NeverSleep/Lumimaid-v0.2-8B X
+NousResearch/Yarn-Llama-2-13b-128k X
+NousResearch/Yarn-Llama-2-7b-128k X
+OpenBuddy/openbuddy-zero-3b-v21.2-32k X
+OpenBuddy/openbuddy-zero-56b-v21.2-32k X
+Qwen/Qwen1.5-0.5B Y
+Qwen/Qwen1.5-0.5B-Chat Y
+Qwen/Qwen1.5-1.8B Y
+Qwen/Qwen1.5-1.8B-Chat Y
+Qwen/Qwen1.5-110B Y
+Qwen/Qwen1.5-110B-Chat Y
+Qwen/Qwen1.5-14B Y
+Qwen/Qwen1.5-14B-Chat Y
+Qwen/Qwen1.5-32B Y
+Qwen/Qwen1.5-32B-Chat Y
+Qwen/Qwen1.5-4B Y
+Qwen/Qwen1.5-4B-Chat Y
+Qwen/Qwen1.5-7B Y
+Qwen/Qwen1.5-7B-Chat Y
+Qwen/Qwen2-0.5B Y
+Qwen/Qwen2-0.5B-Instruct Y
+Qwen/Qwen2-1.5B Y
+Qwen/Qwen2-1.5B-Instruct Y
+Qwen/Qwen2-72B Y
+Qwen/Qwen2-72B-Instruct Y
+Qwen/Qwen2-7B Y
+Qwen/Qwen2-7B-Instruct Y
+VAGOsolutions/Llama-3-SauerkrautLM-70b-Instruct ?
+VAGOsolutions/Llama-3-SauerkrautLM-8b-Instruct ?
+VAGOsolutions/SauerkrautLM-Gemma-2b ?
+VAGOsolutions/SauerkrautLM-Gemma-7b ?
+WizardLMTeam/WizardLM-13B-V1.0  [From Llama 2] ?
+WizardLMTeam/WizardLM-70B-V1.0 [From Llama 2] ?
+abacusai/Smaug-34B-v0.1 X
+abacusai/Smaug-72B-v0.1 X
+allenai/OLMo-1B-hf Y
+allenai/OLMo-7B-hf Y
+bigcode/starcoder2-15b Y
+bigcode/starcoder2-3b Y
+bigcode/starcoder2-7b Y
+bigscience/bloom-1b1 Y
+bigscience/bloom-3b Y
+bigscience/bloom-560m Y
+bigscience/bloom-7b1 Y
+cognitivecomputations/dolphin-2.9.1-yi-1.5-34b ?
+cognitivecomputations/dolphin-2.9.1-yi-1.5-9b ?
+cognitivecomputations/dolphin-2.9.2-qwen2-72b ?
+cognitivecomputations/dolphin-2.9.2-qwen2-7b ?
+databricks/dolly-v2-12b [From pythia] Y
+databricks/dolly-v2-3b [From pythia] Y
+databricks/dolly-v2-7b [From pythia] Y
+deepseek-ai/deepseek-llm-67b-chat X
+deepseek-ai/deepseek-llm-7b-chat X
+facebook/opt-1.3b Y
+facebook/opt-30b Y
+google/gemma-1.1-2b-it Y
+google/gemma-1.1-7b-it Y
+google/gemma-2-2b Y
+google/gemma-2-2b-it Y
+google/gemma-2-9b Y
+google/gemma-2-9b-it Y
+google/gemma-2b Y
+google/gemma-2b-it Y
+google/gemma-7b Y
+google/gemma-7b-it Y
+google/recurrentgemma-2b Y
+google/recurrentgemma-2b-it Y
+google/recurrentgemma-9b Y
+google/recurrentgemma-9b-it Y
+huggyllama/llama-13b Y
+huggyllama/llama-65b Y
+huggyllama/llama-7b Y
+internlm/internlm2_5-20b-chat X
+internlm/internlm2_5-7b-chat X
+jpacifico/Chocolatine-3B-Instruct-DPO-v1.0 X
+jpacifico/Chocolatine-8B-Instruct-DPO-v1.0 X
+lmsys/vicuna-13b-v1.3 [From Llama 1] Y
+lmsys/vicuna-7b-v1.3 [From Llama 1] Y
+meta-llama/Llama-2-13b-chat-hf Y
+meta-llama/Llama-2-13b-hf Y
+meta-llama/Llama-2-70b-chat-hf Y
+meta-llama/Llama-2-70b-hf Y
+meta-llama/Llama-2-7b-chat-hf Y
+meta-llama/Llama-2-7b-hf Y
+meta-llama/Meta-Llama-3-70B Y
+meta-llama/Meta-Llama-3-70B-Instruct Y
+meta-llama/Meta-Llama-3-8B Y
+meta-llama/Meta-Llama-3-8B-Instruct Y
+meta-llama/Meta-Llama-3.1-70B Y
+meta-llama/Meta-Llama-3.1-70B-Instruct Y
+meta-llama/Meta-Llama-3.1-8B Y
+meta-llama/Meta-Llama-3.1-8B-Instruct Y
+microsoft/Orca-2-13b [From Llama 2] ?
+microsoft/Orca-2-7b [From Llama 2] ?
+mistralai/Mixtral-8x22B-Instruct-v0.1 Y
+mistralai/Mixtral-8x22B-v0.1 Y
+mistralai/Mixtral-8x7B-Instruct-v0.1 Y
+mistralai/Mixtral-8x7B-v0.1 Y
+pankajmathur/orca_mini_v3_13b [From Llama 2] ?
+pankajmathur/orca_mini_v3_70b [From Llama 2] ?
+pankajmathur/orca_mini_v3_7b [From Llama 2] ?
+pankajmathur/orca_mini_v7_72b [From Qwen 2] ?
+pankajmathur/orca_mini_v7_7b [From Qwen 2] ?
+princeton-nlp/Sheared-LLaMA-1.3B X
+princeton-nlp/Sheared-LLaMA-2.7B X
+teknium/OpenHermes-13B [From Llama 2] ?
+teknium/OpenHermes-7B [From Llama 2] ?
+tiiuae/falcon-11B X
+tiiuae/falcon-40b Y
+tiiuae/falcon-40b-instruct Y
+tiiuae/falcon-7b Y
+tiiuae/falcon-7b-instruct Y
