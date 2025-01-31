@@ -1,6 +1,6 @@
 # Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families
 
-Welcome to our GitHub repository! Here you will find more information about our method of estimating upper and lower bounds for the performance of weak supervision models introduced in
+Welcome to our GitHub repository! This repository is based on the ideas introduced in
 
 [Maia Polo, Felipe, Seamus Somerstep, Leshem Choshen, Yuekai Sun, and Mikhail Yurochkin. "Sloth: scaling laws for LLM skills to predict multi-benchmark performance across families." arXiv preprint arXiv:2412.06540 (2024).](https://arxiv.org/abs/2412.06540)
 
@@ -23,7 +23,7 @@ conda activate sloth
 
 ##  Quick start
 
-If you are interested in schking how sloth is fitted and interpreted, please check [this notebook](https://github.com/felipemaiapolo/sloth/notebooks/interpretability_plots.ipynb).
+If you are interested in checking how Sloth is fitted and interpreted, please check [this notebook](https://github.com/felipemaiapolo/sloth/notebooks/interpretability_plots.ipynb).
 
 
 ## Reproducing results from the paper
